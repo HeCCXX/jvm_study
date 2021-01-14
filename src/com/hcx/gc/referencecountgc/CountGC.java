@@ -1,4 +1,4 @@
-package com.hcx.gc.referenceCountGC;
+package com.hcx.gc.referencecountgc;
 
 /**
  * @ClassName CountGC

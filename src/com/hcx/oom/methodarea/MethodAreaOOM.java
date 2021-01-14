@@ -1,4 +1,4 @@
-package com.hcx.oom.MethodArea;
+package com.hcx.oom.methodarea;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

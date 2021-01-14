@@ -1,4 +1,4 @@
-package com.hcx.oom.RuntimeConstantPool;
+package com.hcx.oom.runtimeconstantpool;
 
 /**
  * @ClassName RuntimePool2

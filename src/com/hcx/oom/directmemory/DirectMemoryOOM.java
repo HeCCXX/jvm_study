@@ -1,4 +1,4 @@
-package com.hcx.oom.DirectMemory;
+package com.hcx.oom.directmemory;
 
 
 import sun.misc.Unsafe;
