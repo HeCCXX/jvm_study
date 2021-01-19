@@ -10,7 +10,7 @@ package com.hcx.gc.practice;
  * @Date 2021-01-15 17:05
  * @Version 1.0
  **/
-public class testPretenureSizeThreshold {
+public class TestPretenureSizeThreshold {
     private static final int _1MB = 1024 * 1024;
 
     public static void main(String[] args) {
