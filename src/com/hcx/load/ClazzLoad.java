@@ -1,7 +1,5 @@
 package com.hcx.load;
 
-import java.sql.SQLOutput;
-
 /**
  * @ClassName ClazzLoad
  * @Description 不触发类初始化的例子
