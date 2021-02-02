@@ -27,3 +27,7 @@ public class SlotGCTest {
         System.gc();
     }
 }
+/** 运行结果：
+ [GC (System.gc())  70742K->66384K(249344K), 0.0012874 secs]
+ [Full GC (System.gc())  66384K->658K(249344K), 0.0052616 secs]
+**/
